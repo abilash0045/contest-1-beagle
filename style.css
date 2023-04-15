@@ -1,0 +1,16 @@
+*{
+    font-family: 'Inter',sans-serif;
+    padding: 5px 5px 5px 10px;
+}
+h1{
+   text-decoration-line: underline;
+}
+h2{
+    text-decoration-line: underline;
+}
+a{
+    color: black;
+}
+img{
+    width: 400px;
+}
